@@ -1,0 +1,242 @@
+[
+    {
+        "Location": "Montgomery, AL",
+        "Latitude": "32.377716",
+        "Longitude": "-86.300568"
+    },
+    {
+        "Location": "Phoenix, AZ",
+        "Latitude": "33.4484",
+        "Longitude": "-112.0740"
+    },
+    {
+        "Location": "Little Rock, AR",
+        "Latitude": "34.7465",
+        "Longitude": "-92.2896"
+    },
+    {
+        "Location": "Sacramento, CA",
+        "Latitude": "38.5767",
+        "Longitude": "-121.4934"
+    },
+    {
+        "Location": "Denver, CO",
+        "Latitude": "39.7392",
+        "Longitude": "-104.9903"
+    },
+    {
+        "Location": "Hartford, CT",
+        "Latitude": "41.7658",
+        "Longitude": "-72.6734"
+    },
+    {
+        "Location": "Dover, DE",
+        "Latitude": "39.1582",
+        "Longitude": "-75.5244"
+    },
+    {
+        "Location": "Tallahassee, FL",
+        "Latitude": "30.4383",
+        "Longitude": "-84.2807"
+    },
+    {
+        "Location": "Atlanta, GA",
+        "Latitude": "33.7490",
+        "Longitude": "-84.3880"
+    },
+    {
+        "Location": "Boise, ID",
+        "Latitude": "43.6150",
+        "Longitude": "-116.2023"
+    },
+    {
+        "Location": "Springfield, IL",
+        "Latitude": "39.7817",
+        "Longitude": "-89.6501"
+    },
+    {
+        "Location": "Indianapolis, IN",
+        "Latitude": "39.7684",
+        "Longitude": "-86.1581"
+    },
+    {
+        "Location": "Des Moines, IA",
+        "Latitude": "41.5910",
+        "Longitude": "-93.6037"
+    },
+    {
+        "Location": "Topeka, KS",
+        "Latitude": "39.0490",
+        "Longitude": "-95.6775"
+    },
+    {
+        "Location": "Frankfort, KY",
+        "Latitude": "38.1867",
+        "Longitude": "-84.8759"
+    },
+    {
+        "Location": "Baton Rouge, LA",
+        "Latitude": "30.4508",
+        "Longitude": "-91.1545"
+    },
+    {
+        "Location": "Augusta, ME",
+        "Latitude": "44.3106",
+        "Longitude": "-69.7795"
+    },
+    {
+        "Location": "Annapolis, MD",
+        "Latitude": "38.9784",
+        "Longitude": "-76.4922"
+    },
+    {
+        "Location": "Boston, MA",
+        "Latitude": "42.3601",
+        "Longitude": "-71.0589"
+    },
+    {
+        "Location": "Lansing, MI",
+        "Latitude": "42.7325",
+        "Longitude": "-84.5555"
+    },
+    {
+        "Location": "St. Paul, MN",
+        "Latitude": "44.9537",
+        "Longitude": "-93.0892"
+    },
+    {
+        "Location": "Jackson, MS",
+        "Latitude": "32.2988",
+        "Longitude": "-90.1848"
+    },
+    {
+        "Location": "Jefferson City, MO",
+        "Latitude": "38.5767",
+        "Longitude": "-92.1735"
+    },
+    {
+        "Location": "Helena, MT",
+        "Latitude": "46.5894",
+        "Longitude": "-112.0391"
+    },
+    {
+        "Location": "Lincoln, NE",
+        "Latitude": "40.8136",
+        "Longitude": "-96.7026"
+    },
+    {
+        "Location": "Carson City, NV",
+        "Latitude": "39.1638",
+        "Longitude": "-119.7674"
+    },
+    {
+        "Location": "Concord, NH",
+        "Latitude": "43.2081",
+        "Longitude": "-71.5375"
+    },
+    {
+        "Location": "Trenton, NJ",
+        "Latitude": "40.2206",
+        "Longitude": "-74.7597"
+    },
+    {
+        "Location": "Santa Fe, NM",
+        "Latitude": "35.6870",
+        "Longitude": "-105.9378"
+    },
+    {
+        "Location": "Albany, NY",
+        "Latitude": "42.6526",
+        "Longitude": "-73.7562"
+    },
+    {
+        "Location": "Raleigh, NC",
+        "Latitude": "35.7796",
+        "Longitude": "-78.6382"
+    },
+    {
+        "Location": "Bismarck, ND",
+        "Latitude": "46.8083",
+        "Longitude": "-100.7837"
+    },
+    {
+        "Location": "Columbus, OH",
+        "Latitude": "39.9612",
+        "Longitude": "-82.9988"
+    },
+    {
+        "Location": "Oklahoma City, OK",
+        "Latitude": "35.4676",
+        "Longitude": "-97.5164"
+    },
+    {
+        "Location": "Salem, OR",
+        "Latitude": "44.9429",
+        "Longitude": "-123.0351"
+    },
+    {
+        "Location": "Harrisburg, PA",
+        "Latitude": "40.2697",
+        "Longitude": "-76.8756"
+    },
+    {
+        "Location": "Providence, RI",
+        "Latitude": "41.8231",
+        "Longitude": "-71.4188"
+    },
+    {
+        "Location": "Columbia, SC",
+        "Latitude": "34.0007",
+        "Longitude": "-81.0348"
+    },
+    {
+        "Location": "Pierre, SD",
+        "Latitude": "44.3683",
+        "Longitude": "-100.3510"
+    },
+    {
+        "Location": "Nashville, TN",
+        "Latitude": "36.1627",
+        "Longitude": "-86.7816"
+    },
+    {
+        "Location": "Austin, TX",
+        "Latitude": "30.2500",
+        "Longitude": "-97.7500"
+    },
+    {
+        "Location": "Salt Lake City, UT",
+        "Latitude": "40.7608",
+        "Longitude": "-111.8910"
+    },
+    {
+        "Location": "Montpelier, VT",
+        "Latitude": "44.2601",
+        "Longitude": "-72.5754"
+    },
+    {
+        "Location": "Richmond, VA",
+        "Latitude": "37.5407",
+        "Longitude": "-77.4360"
+    },
+    {
+        "Location": "Olympia, WA",
+        "Latitude": "47.0379",
+        "Longitude": "-122.9007"
+    },
+    {
+        "Location": "Charleston, WV",
+        "Latitude": "38.3498",
+        "Longitude": "-81.6326"
+    },
+    {
+        "Location": "Madison, WI",
+        "Latitude": "43.0731",
+        "Longitude": "-89.4012"
+    },
+    {
+        "Location": "Cheyenne, WY",
+        "Latitude": "41.1399",
+        "Longitude": "-104.8202"
+    }
+]

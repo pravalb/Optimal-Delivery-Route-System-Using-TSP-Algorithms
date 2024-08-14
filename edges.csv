@@ -1,0 +1,1129 @@
+Node1,Node2,Distance (km)
+"Montgomery, AL","Phoenix, AZ",2402.6918922702016
+"Montgomery, AL","Little Rock, AR",614.1130248277208
+"Montgomery, AL","Sacramento, CA",3239.6918722540568
+"Montgomery, AL","Denver, CO",1863.8201758588098
+"Montgomery, AL","Hartford, CT",1593.7506697884044
+"Montgomery, AL","Dover, DE",1228.7992271128421
+"Montgomery, AL","Tallahassee, FL",288.5186982873752
+"Montgomery, AL","Atlanta, GA",234.545809300444
+"Montgomery, AL","Boise, ID",2881.737414833639
+"Montgomery, AL","Springfield, IL",876.3973701595174
+"Montgomery, AL","Indianapolis, IN",821.9059507185932
+"Montgomery, AL","Des Moines, IA",1211.473690284392
+"Montgomery, AL","Topeka, KS",1124.4507750993077
+"Montgomery, AL","Frankfort, KY",658.7198675123415
+"Montgomery, AL","Baton Rouge, LA",507.9389119413874
+"Montgomery, AL","Augusta, ME",1951.7430145286219
+"Montgomery, AL","Annapolis, MD",1149.2241218928143
+"Montgomery, AL","Boston, MA",1740.6018085943215
+"Montgomery, AL","Lansing, MI",1161.552808193557
+"Montgomery, AL","St. Paul, MN",1516.1230909601088
+"Montgomery, AL","Jackson, MS",365.00565537660447
+"Montgomery, AL","Jefferson City, MO",870.1496723020186
+"Montgomery, AL","Helena, MT",2695.6922235994334
+"Montgomery, AL","Lincoln, NE",1318.0560463419142
+"Montgomery, AL","Carson City, NV",3093.2693604234714
+"Montgomery, AL","Concord, NH",1765.0780986266652
+"Montgomery, AL","Trenton, NJ",1350.7616253645683
+"Montgomery, AL","Santa Fe, NM",1843.2740821030195
+"Montgomery, AL","Albany, NY",1586.991579529086
+"Montgomery, AL","Raleigh, NC",800.3250819505159
+"Montgomery, AL","Bismarck, ND",2021.5229534796385
+"Montgomery, AL","Columbus, OH",893.6230487429665
+"Montgomery, AL","Oklahoma City, OK",1089.6429701745965
+"Montgomery, AL","Salem, OR",3444.89668841007
+"Montgomery, AL","Harrisburg, PA",1216.3537645823023
+"Montgomery, AL","Providence, RI",1682.4651375668134
+"Montgomery, AL","Columbia, SC",522.1008184209496
+"Montgomery, AL","Pierre, SD",1805.32527529018
+"Montgomery, AL","Nashville, TN",423.18382626956213
+"Montgomery, AL","Austin, TX",1112.4940164100499
+"Montgomery, AL","Salt Lake City, UT",2456.7903292252595
+"Montgomery, AL","Montpelier, VT",1778.2065982724896
+"Montgomery, AL","Richmond, VA",990.2877375584721
+"Montgomery, AL","Olympia, WA",3486.611912341012
+"Montgomery, AL","Charleston, WV",787.2184636608106
+"Montgomery, AL","Madison, WI",1219.8863244595861
+"Montgomery, AL","Cheyenne, WY",1910.0917966454563
+"Phoenix, AZ","Little Rock, AR",1824.484930329046
+"Phoenix, AZ","Sacramento, CA",1020.3719441825547
+"Phoenix, AZ","Denver, CO",942.3364167649684
+"Phoenix, AZ","Hartford, CT",3558.336597484301
+"Phoenix, AZ","Dover, DE",3313.1196520358635
+"Phoenix, AZ","Tallahassee, FL",2635.85331112081
+"Phoenix, AZ","Atlanta, GA",2556.676208603904
+"Phoenix, AZ","Boise, ID",1185.7132472081134
+"Phoenix, AZ","Springfield, IL",2114.769113562207
+"Phoenix, AZ","Indianapolis, IN",2407.8424289672093
+"Phoenix, AZ","Des Moines, IA",1858.0467846988524
+"Phoenix, AZ","Topeka, KS",1593.7517819796792
+"Phoenix, AZ","Frankfort, KY",2498.7326514704223
+"Phoenix, AZ","Baton Rouge, LA",1998.1729740314115
+"Phoenix, AZ","Augusta, ME",3807.5448508030977
+"Phoenix, AZ","Annapolis, MD",3229.6862371648267
+"Phoenix, AZ","Boston, MA",3693.7128393970092
+"Phoenix, AZ","Lansing, MI",2605.074468762027
+"Phoenix, AZ","St. Paul, MN",2067.8469710141726
+"Phoenix, AZ","Jackson, MS",2044.440863324786
+"Phoenix, AZ","Jefferson City, MO",1874.1132100563052
+"Phoenix, AZ","Helena, MT",1461.2155119774459
+"Phoenix, AZ","Lincoln, NE",1586.3800377009334
+"Phoenix, AZ","Carson City, NV",936.94536494789
+"Phoenix, AZ","Concord, NH",3658.9606333961083
+"Phoenix, AZ","Trenton, NJ",3378.9651495783864
+"Phoenix, AZ","Santa Fe, NM",614.3690246589938
+"Phoenix, AZ","Albany, NY",3474.612122488861
+"Phoenix, AZ","Raleigh, NC",3055.9933476007272
+"Phoenix, AZ","Bismarck, ND",1764.6296742839168
+"Phoenix, AZ","Columbus, OH",2677.9313200946826
+"Phoenix, AZ","Oklahoma City, OK",1352.160899545674
+"Phoenix, AZ","Salem, OR",1586.1163909285742
+"Phoenix, AZ","Harrisburg, PA",3199.613527650608
+"Phoenix, AZ","Providence, RI",3662.479199880706
+"Phoenix, AZ","Columbia, SC",2860.189313018153
+"Phoenix, AZ","Pierre, SD",1578.8087747256525
+"Phoenix, AZ","Nashville, TN",2322.2140085208266
+"Phoenix, AZ","Austin, TX",1397.5934023819996
+"Phoenix, AZ","Salt Lake City, UT",813.2631238705075
+"Phoenix, AZ","Montpelier, VT",3585.3107237575637
+"Phoenix, AZ","Richmond, VA",3150.6991717178657
+"Phoenix, AZ","Olympia, WA",1764.7218494351528
+"Phoenix, AZ","Charleston, WV",2782.415454405275
+"Phoenix, AZ","Madison, WI",2240.051622596985
+"Phoenix, AZ","Cheyenne, WY",1068.3169883873334
+"Little Rock, AR","Sacramento, CA",2628.1456907909114
+"Little Rock, AR","Denver, CO",1252.2320096842886
+"Little Rock, AR","Hartford, CT",1876.518430821687
+"Little Rock, AR","Dover, DE",1565.6637312885068
+"Little Rock, AR","Tallahassee, FL",889.7162928094978
+"Little Rock, AR","Atlanta, GA",734.4946202439909
+"Little Rock, AR","Boise, ID",2273.8562218189745
+"Little Rock, AR","Springfield, IL",606.5774987798155
+"Little Rock, AR","Indianapolis, IN",778.2516914424878
+"Little Rock, AR","Des Moines, IA",769.6657922357324
+"Little Rock, AR","Topeka, KS",565.2589173370002
+"Little Rock, AR","Frankfort, KY",765.0353653419054
+"Little Rock, AR","Baton Rouge, LA",489.3404487122816
+"Little Rock, AR","Augusta, ME",2193.6769062936664
+"Little Rock, AR","Annapolis, MD",1479.7543294454717
+"Little Rock, AR","Boston, MA",2023.6662014631972
+"Little Rock, AR","Lansing, MI",1111.803585876695
+"Little Rock, AR","St. Paul, MN",1137.0228086431364
+"Little Rock, AR","Jackson, MS",334.86161787120415
+"Little Rock, AR","Jefferson City, MO",426.0245679514197
+"Little Rock, AR","Helena, MT",2113.0852613950356
+"Little Rock, AR","Lincoln, NE",777.8955913928846
+"Little Rock, AR","Carson City, NV",2480.486621597269
+"Little Rock, AR","Concord, NH",2017.8789608866011
+"Little Rock, AR","Trenton, NJ",1658.6240745176985
+"Little Rock, AR","Santa Fe, NM",1243.2451760536712
+"Little Rock, AR","Albany, NY",1827.2132614029952
+"Little Rock, AR","Raleigh, NC",1243.7287330558402
+"Little Rock, AR","Bismarck, ND",1517.8512552348386
+"Little Rock, AR","Columbus, OH",1004.3803186661145
+"Little Rock, AR","Oklahoma City, OK",482.1144707452554
+"Little Rock, AR","Salem, OR",2837.3020726695977
+"Little Rock, AR","Harrisburg, PA",1489.1792141136689
+"Little Rock, AR","Providence, RI",1977.6837600226784
+"Little Rock, AR","Columbia, SC",1035.7131292428414
+"Little Rock, AR","Pierre, SD",1272.2235340964098
+"Little Rock, AR","Nashville, TN",523.0669909130409
+"Little Rock, AR","Austin, TX",715.4503404423883
+"Little Rock, AR","Salt Lake City, UT",1843.4696323905957
+"Little Rock, AR","Montpelier, VT",1987.0717048402068
+"Little Rock, AR","Richmond, VA",1367.8762719781282
+"Little Rock, AR","Olympia, WA",2887.4985651134825
+"Little Rock, AR","Charleston, WV",1032.0289958874162
+"Little Rock, AR","Madison, WI",958.8401218116084
+"Little Rock, AR","Cheyenne, WY",1306.6866542721548
+"Sacramento, CA","Denver, CO",1426.7455856339816
+"Sacramento, CA","Hartford, CT",4107.401721236189
+"Sacramento, CA","Dover, DE",3936.729719622323
+"Sacramento, CA","Tallahassee, FL",3501.9778276577053
+"Sacramento, CA","Atlanta, GA",3350.933848786004
+"Sacramento, CA","Boise, ID",714.1237841111523
+"Sacramento, CA","Springfield, IL",2733.538471300873
+"Sacramento, CA","Indianapolis, IN",3029.0931090355457
+"Sacramento, CA","Des Moines, IA",2385.6988253932946
+"Sacramento, CA","Topeka, KS",2229.8437586949485
+"Sacramento, CA","Frankfort, KY",3170.6024366903075
+"Sacramento, CA","Baton Rouge, LA",2907.423763659407
+"Sacramento, CA","Augusta, ME",4285.271434695841
+"Sacramento, CA","Annapolis, MD",3860.477551251454
+"Sacramento, CA","Boston, MA",4224.458194401016
+"Sacramento, CA","Lansing, MI",3124.7493869954724
+"Sacramento, CA","St. Paul, MN",2445.8512832366937
+"Sacramento, CA","Jackson, MS",2905.825233126813
+"Sacramento, CA","Jefferson City, MO",2537.784630655821
+"Sacramento, CA","Helena, MT",1178.5168659013375
+"Sacramento, CA","Lincoln, NE",2128.4348096858125
+"Sacramento, CA","Carson City, NV",163.05939182134617
+"Sacramento, CA","Concord, NH",4167.999033881006
+"Sacramento, CA","Trenton, NJ",3972.8955022299906
+"Sacramento, CA","Santa Fe, NM",1414.0467100624574
+"Sacramento, CA","Albany, NY",4001.1987542699258
+"Sacramento, CA","Raleigh, NC",3775.1694633535194
+"Sacramento, CA","Bismarck, ND",1915.8999821908258
+"Sacramento, CA","Columbus, OH",3291.5751850061606
+"Sacramento, CA","Oklahoma City, OK",2150.2128612664274
+"Sacramento, CA","Salem, OR",719.3065403059462
+"Sacramento, CA","Harrisburg, PA",3796.33490242985
+"Sacramento, CA","Providence, RI",4207.815482690217
+"Sacramento, CA","Columbia, SC",3632.284691717786
+"Sacramento, CA","Pierre, SD",1869.0116879734605
+"Sacramento, CA","Nashville, TN",3061.0054368588903
+"Sacramento, CA","Austin, TX",2357.7952995061282
+"Sacramento, CA","Salt Lake City, UT",856.4971881692561
+"Sacramento, CA","Montpelier, VT",4066.5057633807746
+"Sacramento, CA","Richmond, VA",3821.558583877688
+"Sacramento, CA","Olympia, WA",947.7755748625265
+"Sacramento, CA","Charleston, WV",3442.79023394337
+"Sacramento, CA","Madison, WI",2728.91470127601
+"Sacramento, CA","Cheyenne, WY",1449.0374581294775
+"Denver, CO","Hartford, CT",2715.4602244859207
+"Denver, CO","Dover, DE",2519.4361178121317
+"Denver, CO","Tallahassee, FL",2141.940573874606
+"Denver, CO","Atlanta, GA",1947.3564520588873
+"Denver, CO","Boise, ID",1024.93180609537
+"Denver, CO","Springfield, IL",1309.6550040437623
+"Denver, CO","Indianapolis, IN",1606.9229813969762
+"Denver, CO","Des Moines, IA",981.4376962117146
+"Denver, CO","Topeka, KS",803.5645873004
+"Denver, CO","Frankfort, KY",1743.9411316165929
+"Denver, CO","Baton Rouge, LA",1624.8261366134657
+"Denver, CO","Augusta, ME",2929.3387662418386
+"Denver, CO","Annapolis, MD",2441.2333683629745
+"Denver, CO","Boston, MA",2841.280948670539
+"Denver, CO","Lansing, MI",1736.3303186167655
+"Denver, CO","St. Paul, MN",1135.3124679477671
+"Denver, CO","Jackson, MS",1564.4999691005225
+"Denver, CO","Jefferson City, MO",1111.646188856336
+"Denver, CO","Helena, MT",951.5357873973085
+"Denver, CO","Lincoln, NE",712.8754927642844
+"Denver, CO","Carson City, NV",1268.9432270790312
+"Denver, CO","Concord, NH",2794.732654496748
+"Denver, CO","Trenton, NJ",2563.823023770485
+"Denver, CO","Santa Fe, NM",458.2188111963416
+"Denver, CO","Albany, NY",2618.2874934844203
+"Denver, CO","Raleigh, NC",2349.1804129603006
+"Denver, CO","Bismarck, ND",856.3249118535226
+"Denver, CO","Columbus, OH",1872.7343946808332
+"Denver, CO","Oklahoma City, OK",811.3707310585545
+"Denver, CO","Salem, OR",1587.708068128305
+"Denver, CO","Harrisburg, PA",2385.3068211837153
+"Denver, CO","Providence, RI",2818.1235925138853
+"Denver, CO","Columbia, SC",2216.753298424486
+"Denver, CO","Pierre, SD",641.3720384737669
+"Denver, CO","Nashville, TN",1642.1564014601176
+"Denver, CO","Austin, TX",1243.250850430027
+"Denver, CO","Salt Lake City, UT",596.3918862065954
+"Denver, CO","Montpelier, VT",2707.021770520068
+"Denver, CO","Richmond, VA",2396.1288074524496
+"Denver, CO","Olympia, WA",1653.7139866511368
+"Denver, CO","Charleston, WV",2017.3612222379186
+"Denver, CO","Madison, WI",1349.6775316114943
+"Denver, CO","Cheyenne, WY",156.41447384444734
+"Hartford, CT","Dover, DE",377.10942040677
+"Hartford, CT","Tallahassee, FL",1632.011566345377
+"Hartford, CT","Atlanta, GA",1359.7794109859908
+"Hartford, CT","Boise, ID",3522.6833652672626
+"Hartford, CT","Springfield, IL",1444.0429824041632
+"Hartford, CT","Indianapolis, IN",1155.8562381483796
+"Hartford, CT","Des Moines, IA",1734.0711570842384
+"Hartford, CT","Topeka, KS",1964.9900554459089
+"Hartford, CT","Frankfort, KY",1112.084434580654
+"Hartford, CT","Baton Rouge, LA",2075.509097129688
+"Hartford, CT","Augusta, ME",367.8982266013241
+"Hartford, CT","Annapolis, MD",447.9294299311971
+"Hartford, CT","Boston, MA",148.76013685316087
+"Hartford, CT","Lansing, MI",983.0711629222728
+"Hartford, CT","St. Paul, MN",1683.3381986822058
+"Hartford, CT","Jackson, MS",1871.524958694242
+"Hartford, CT","Jefferson City, MO",1690.4420280606466
+"Hartford, CT","Helena, MT",3151.0703545414362
+"Hartford, CT","Lincoln, NE",2003.8965528291615
+"Hartford, CT","Carson City, NV",3944.6103359211634
+"Hartford, CT","Concord, NH",185.45709865887483
+"Hartford, CT","Trenton, NJ",245.30405775237057
+"Hartford, CT","Santa Fe, NM",2944.0976894546357
+"Hartford, CT","Albany, NY",132.95153997336996
+"Hartford, CT","Raleigh, NC",842.4080132332779
+"Hartford, CT","Bismarck, ND",2293.29474233531
+"Hartford, CT","Columbus, OH",890.5787245476553
+"Hartford, CT","Oklahoma City, OK",2259.799651206033
+"Hartford, CT","Salem, OR",4021.4039684752
+"Hartford, CT","Harrisburg, PA",389.771512751895
+"Hartford, CT","Providence, RI",104.20079132693972
+"Hartford, CT","Columbia, SC",1131.9570987657141
+"Hartford, CT","Pierre, SD",2255.9901955046494
+"Hartford, CT","Nashville, TN",1367.3039899753767
+"Hartford, CT","Austin, TX",2579.6778122414876
+"Hartford, CT","Salt Lake City, UT",3251.225900742592
+"Hartford, CT","Montpelier, VT",277.4678704662263
+"Hartford, CT","Richmond, VA",621.8496447087208
+"Hartford, CT","Olympia, WA",3963.55018213778
+"Hartford, CT","Charleston, WV",851.2685463328461
+"Hartford, CT","Madison, WI",1378.4885606930284
+"Hartford, CT","Cheyenne, WY",2664.3519258708043
+"Dover, DE","Tallahassee, FL",1255.3737668208857
+"Dover, DE","Atlanta, GA",994.2553738891436
+"Dover, DE","Boise, ID",3395.1083622275437
+"Dover, DE","Springfield, IL",1213.2387140798724
+"Dover, DE","Indianapolis, IN",914.8371825349691
+"Dover, DE","Des Moines, IA",1552.2262959279699
+"Dover, DE","Topeka, KS",1735.4220905488176
+"Dover, DE","Frankfort, KY",818.6129393058793
+"Dover, DE","Baton Rouge, LA",1720.529316513391
+"Dover, DE","Augusta, ME",744.901151494833
+"Dover, DE","Annapolis, MD",85.90959315993894
+"Dover, DE","Boston, MA",517.755212067843
+"Dover, DE","Lansing, MI",855.6806269325568
+"Dover, DE","St. Paul, MN",1582.6231247515834
+"Dover, DE","Jackson, MS",1524.6012083229796
+"Dover, DE","Jefferson City, MO",1440.8451317261126
+"Dover, DE","Helena, MT",3058.014683021407
+"Dover, DE","Lincoln, NE",1809.2565696433076
+"Dover, DE","Carson City, NV",3775.4655484903683
+"Dover, DE","Concord, NH",560.3077493904173
+"Dover, DE","Trenton, NJ",135.0427879739241
+"Dover, DE","Santa Fe, NM",2700.5018933210595
+"Dover, DE","Albany, NY",415.9776913488522
+"Dover, DE","Raleigh, NC",465.389917013467
+"Dover, DE","Bismarck, ND",2211.522642351309
+"Dover, DE","Columbus, OH",646.750657662742
+"Dover, DE","Oklahoma City, OK",1982.504238851522
+"Dover, DE","Salem, OR",3918.061323346053
+"Dover, DE","Harrisburg, PA",169.20877155990829
+"Dover, DE","Providence, RI",456.3525578542251
+"Dover, DE","Columbia, SC",755.3090161979003
+"Dover, DE","Pierre, SD",2129.8118355977977
+"Dover, DE","Nashville, TN",1044.5556299849386
+"Dover, DE","Austin, TX",2252.0714261392445
+"Dover, DE","Salt Lake City, UT",3082.46080407188
+"Dover, DE","Montpelier, VT",617.755348118734
+"Dover, DE","Richmond, VA",245.21603619607285
+"Dover, DE","Olympia, WA",3882.793492741276
+"Dover, DE","Charleston, WV",537.1323184292199
+"Dover, DE","Madison, WI",1239.4760434540376
+"Dover, DE","Cheyenne, WY",2487.920065008172
+"Tallahassee, FL","Atlanta, GA",368.27170053193953
+"Tallahassee, FL","Boise, ID",3162.945517342711
+"Tallahassee, FL","Springfield, IL",1147.4195782514855
+"Tallahassee, FL","Indianapolis, IN",1051.346834183086
+"Tallahassee, FL","Des Moines, IA",1494.9064952498306
+"Tallahassee, FL","Topeka, KS",1412.4241546251906
+"Tallahassee, FL","Frankfort, KY",863.3089079735743
+"Tallahassee, FL","Baton Rouge, LA",658.8454909802858
+"Tallahassee, FL","Augusta, ME",1998.997538214287
+"Tallahassee, FL","Annapolis, MD",1185.7832361064923
+"Tallahassee, FL","Boston, MA",1772.6135959020255
+"Tallahassee, FL","Lansing, MI",1367.2705865916514
+"Tallahassee, FL","St. Paul, MN",1787.825945237893
+"Tallahassee, FL","Jackson, MS",597.3941732736766
+"Tallahassee, FL","Jefferson City, MO",1157.4045418822257
+"Tallahassee, FL","Helena, MT",2983.4178165287813
+"Tallahassee, FL","Lincoln, NE",1606.5670168586307
+"Tallahassee, FL","Carson City, NV",3358.3234056342253
+"Tallahassee, FL","Concord, NH",1812.8881902078358
+"Tallahassee, FL","Trenton, NJ",1387.1075094275254
+"Tallahassee, FL","Santa Fe, NM",2095.8959275048937
+"Tallahassee, FL","Albany, NY",1648.8729425432978
+"Tallahassee, FL","Raleigh, NC",792.7317715675443
+"Tallahassee, FL","Bismarck, ND",2306.991409938513
+"Tallahassee, FL","Columbus, OH",1065.2483344533225
+"Tallahassee, FL","Oklahoma City, OK",1354.1234927556657
+"Tallahassee, FL","Salem, OR",3726.3538300219407
+"Tallahassee, FL","Harrisburg, PA",1281.834267585018
+"Tallahassee, FL","Providence, RI",1709.820831618877
+"Tallahassee, FL","Columbia, SC",500.07677032332515
+"Tallahassee, FL","Pierre, SD",2093.2962940125167
+"Tallahassee, FL","Nashville, TN",677.55388838449
+"Tallahassee, FL","Austin, TX",1291.9461359024078
+"Tallahassee, FL","Salt Lake City, UT",2732.1832542482075
+"Tallahassee, FL","Montpelier, VT",1848.5107338229468
+"Tallahassee, FL","Richmond, VA",1010.2386706228392
+"Tallahassee, FL","Olympia, WA",3771.688827304127
+"Tallahassee, FL","Charleston, WV",912.5311670869825
+"Tallahassee, FL","Madison, WI",1476.348374185575
+"Tallahassee, FL","Cheyenne, WY",2193.168438627795
+"Atlanta, GA","Boise, ID",2949.014008624845
+"Atlanta, GA","Springfield, IL",817.9816241902541
+"Atlanta, GA","Indianapolis, IN",687.6063263057264
+"Atlanta, GA","Des Moines, IA",1189.4934932530623
+"Atlanta, GA","Topeka, KS",1168.4130060406364
+"Atlanta, GA","Frankfort, KY",495.39692459626366
+"Atlanta, GA","Baton Rouge, LA",735.0986682708971
+"Atlanta, GA","Augusta, ME",1718.9039748219664
+"Atlanta, GA","Annapolis, MD",914.7610699821772
+"Atlanta, GA","Boston, MA",1506.3980699412314
+"Atlanta, GA","Lansing, MI",999.0261009298216
+"Atlanta, GA","St. Paul, MN",1451.2758969951365
+"Atlanta, GA","Jackson, MS",563.8869221059368
+"Atlanta, GA","Jefferson City, MO",880.7102524488123
+"Atlanta, GA","Helena, MT",2727.7946024578614
+"Atlanta, GA","Lincoln, NE",1341.0276052769093
+"Atlanta, GA","Carson City, NV",3200.0146794304537
+"Atlanta, GA","Concord, NH",1532.0900895328155
+"Atlanta, GA","Trenton, NJ",1116.4611532972833
+"Atlanta, GA","Santa Fe, NM",1977.3640447778198
+"Atlanta, GA","Albany, NY",1355.4883759009263
+"Atlanta, GA","Raleigh, NC",571.5772609364094
+"Atlanta, GA","Bismarck, ND",2002.7888046524322
+"Atlanta, GA","Columbus, OH",701.7074185891017
+"Atlanta, GA","Oklahoma City, OK",1215.6578064811372
+"Atlanta, GA","Salem, OR",3509.3182160064443
+"Atlanta, GA","Harrisburg, PA",984.4542244762594
+"Atlanta, GA","Providence, RI",1448.0498938839023
+"Atlanta, GA","Columbia, SC",310.81700311884606
+"Atlanta, GA","Pierre, SD",1809.1143055273474
+"Atlanta, GA","Nashville, TN",345.83123154772636
+"Atlanta, GA","Austin, TX",1317.5508674125545
+"Atlanta, GA","Salt Lake City, UT",2543.7408256706867
+"Atlanta, GA","Montpelier, VT",1548.4686388231196
+"Atlanta, GA","Richmond, VA",756.2152531163599
+"Atlanta, GA","Olympia, WA",3535.223056537417
+"Atlanta, GA","Charleston, WV",568.3254472840742
+"Atlanta, GA","Madison, WI",1124.4849881763655
+"Atlanta, GA","Cheyenne, WY",1975.807947000358
+"Boise, ID","Springfield, IL",2235.2798239081867
+"Boise, ID","Indianapolis, IN",2516.8615010276794
+"Boise, ID","Des Moines, IA",1857.4213043792693
+"Boise, ID","Topeka, KS",1782.056269861458
+"Boise, ID","Frankfort, KY",2684.1066597502218
+"Boise, ID","Baton Rouge, LA",2645.4033009166887
+"Boise, ID","Augusta, ME",3665.8026798649507
+"Boise, ID","Annapolis, MD",3324.970015908422
+"Boise, ID","Boston, MA",3628.8640685694177
+"Boise, ID","Lansing, MI",2552.617236154795
+"Boise, ID","St. Paul, MN",1839.6072857437407
+"Boise, ID","Jackson, MS",2589.297795675445
+"Boise, ID","Jefferson City, MO",2081.786190822225
+"Boise, ID","Helena, MT",464.7967875749399
+"Boise, ID","Lincoln, NE",1631.8313337331101
+"Boise, ID","Carson City, NV",577.2931424552245
+"Boise, ID","Concord, NH",3563.7109082886377
+"Boise, ID","Trenton, NJ",3413.941132917764
+"Boise, ID","Santa Fe, NM",1242.8925356609786
+"Boise, ID","Albany, NY",3408.053008685519
+"Boise, ID","Raleigh, NC",3299.1798513945423
+"Boise, ID","Bismarck, ND",1256.5647838231423
+"Boise, ID","Columbus, OH",2763.888354963147
+"Boise, ID","Oklahoma City, OK",1834.5804636781622
+"Boise, ID","Salem, OR",563.4458850926296
+"Boise, ID","Harrisburg, PA",3243.2692663935213
+"Boise, ID","Providence, RI",3619.3381409784183
+"Boise, ID","Columbia, SC",3201.1940251151627
+"Boise, ID","Pierre, SD",1268.8507517375274
+"Boise, ID","Nashville, TN",2627.2241651768536
+"Boise, ID","Austin, TX",2203.8660253459107
+"Boise, ID","Salt Lake City, UT",476.2134288554326
+"Boise, ID","Montpelier, VT",3452.203818711804
+"Boise, ID","Richmond, VA",3311.600611763836
+"Boise, ID","Olympia, WA",646.9907409402425
+"Boise, ID","Charleston, WV",2938.131621994327
+"Boise, ID","Madison, WI",2158.703665151339
+"Boise, ID","Cheyenne, WY",973.6992652759022
+"Springfield, IL","Indianapolis, IN",298.411829919021
+"Springfield, IL","Des Moines, IA",389.30129416438297
+"Springfield, IL","Topeka, KS",524.0495482268682
+"Springfield, IL","Frankfort, KY",449.07248665317684
+"Springfield, IL","Baton Rouge, LA",1046.483485766823
+"Springfield, IL","Augusta, ME",1711.3812118677774
+"Springfield, IL","Annapolis, MD",1133.3973713029263
+"Springfield, IL","Boston, MA",1581.300943689234
+"Springfield, IL","Lansing, MI",537.4348245596376
+"Springfield, IL","St. Paul, MN",640.5994515075955
+"Springfield, IL","Jackson, MS",833.4431689108054
+"Springfield, IL","Jefferson City, MO",255.44794537031086
+"Springfield, IL","Helena, MT",1958.11202505449
+"Springfield, IL","Lincoln, NE",608.8334198998068
+"Springfield, IL","Carson City, NV",2573.7679141119115
+"Springfield, IL","Concord, NH",1552.4885708685322
+"Springfield, IL","Trenton, NJ",1267.796537169175
+"Springfield, IL","Santa Fe, NM",1500.410610364663
+"Springfield, IL","Albany, NY",1364.9473947885115
+"Springfield, IL","Raleigh, NC",1064.1750308916444
+"Springfield, IL","Bismarck, ND",1190.5603568464287
+"Springfield, IL","Columbus, OH",567.8437179070686
+"Springfield, IL","Oklahoma City, OK",842.1104151658783
+"Springfield, IL","Salem, OR",2781.6429106692503
+"Springfield, IL","Harrisburg, PA",1088.1347619444575
+"Springfield, IL","Providence, RI",1548.234716064572
+"Springfield, IL","Columbia, SC",999.2442411420591
+"Springfield, IL","Pierre, SD",1018.6851617018083
+"Springfield, IL","Nashville, TN",474.4424441226484
+"Springfield, IL","Austin, TX",1289.9789473700919
+"Springfield, IL","Salt Lake City, UT",1885.0226646893607
+"Springfield, IL","Montpelier, VT",1492.4304484461668
+"Springfield, IL","Richmond, VA",1088.4384028953089
+"Springfield, IL","Olympia, WA",2780.8118617123137
+"Springfield, IL","Charleston, WV",709.9906528129007
+"Springfield, IL","Madison, WI",366.5742836343094
+"Springfield, IL","Cheyenne, WY",1290.6175138337487
+"Indianapolis, IN","Des Moines, IA",659.4987630949478
+"Indianapolis, IN","Topeka, KS",821.3521268269899
+"Indianapolis, IN","Frankfort, KY",207.88179718661144
+"Indianapolis, IN","Baton Rouge, LA",1130.8518967901757
+"Indianapolis, IN","Augusta, ME",1440.7248600846815
+"Indianapolis, IN","Annapolis, MD",835.0661173581433
+"Indianapolis, IN","Boston, MA",1296.3836351448135
+"Indianapolis, IN","Lansing, MI",355.76359255272087
+"Indianapolis, IN","St. Paul, MN",809.8152536602785
+"Indianapolis, IN","Jackson, MS",905.7976898674419
+"Indianapolis, IN","Jefferson City, MO",535.0929755673138
+"Indianapolis, IN","Helena, MT",2219.238132314141
+"Indianapolis, IN","Lincoln, NE",901.3005733551564
+"Indianapolis, IN","Carson City, NV",2868.8262542307675
+"Indianapolis, IN","Concord, NH",1274.5021623260254
+"Indianapolis, IN","Trenton, NJ",971.6280885965832
+"Indianapolis, IN","Santa Fe, NM",1793.6441851093691
+"Indianapolis, IN","Albany, NY",1084.687716941221
+"Indianapolis, IN","Raleigh, NC",795.5090096314711
+"Indianapolis, IN","Bismarck, ND",1415.6656002837565
+"Indianapolis, IN","Columbus, OH",270.4785939411401
+"Indianapolis, IN","Oklahoma City, OK",1107.694028232005
+"Indianapolis, IN","Salem, OR",3056.9848861441824
+"Indianapolis, IN","Harrisburg, PA",792.0631378044208
+"Indianapolis, IN","Providence, RI",1259.9526061649426
+"Indianapolis, IN","Columbia, SC",786.397185339737
+"Indianapolis, IN","Pierre, SD",1276.1111000239814
+"Indianapolis, IN","Nashville, TN",404.6406581241039
+"Indianapolis, IN","Austin, TX",1492.3742934196282
+"Indianapolis, IN","Salt Lake City, UT",2178.3799329836147
+"Indianapolis, IN","Montpelier, VT",1226.2914105504906
+"Indianapolis, IN","Richmond, VA",796.4585431820941
+"Indianapolis, IN","Olympia, WA",3045.6823045832557
+"Indianapolis, IN","Charleston, WV",421.3163530173804
+"Indianapolis, IN","Madison, WI",456.1575813596239
+"Indianapolis, IN","Cheyenne, WY",1583.306372107491
+"Des Moines, IA","Topeka, KS",332.8500678206237
+"Des Moines, IA","Frankfort, KY",834.7711220848064
+"Des Moines, IA","Baton Rouge, LA",1258.0065978762202
+"Des Moines, IA","Augusta, ME",1955.3317643917753
+"Des Moines, IA","Annapolis, MD",1477.6420363149618
+"Des Moines, IA","Boston, MA",1860.1804478062109
+"Des Moines, IA","Lansing, MI",756.1223679747291
+"Des Moines, IA","St. Paul, MN",376.22578837432013
+"Des Moines, IA","Jackson, MS",1076.7330729512726
+"Des Moines, IA","Jefferson City, MO",356.5613886853917
+"Des Moines, IA","Helena, MT",1569.198916804447
+"Des Moines, IA","Lincoln, NE",273.2715715757806
+"Des Moines, IA","Carson City, NV",2224.0035934605085
+"Des Moines, IA","Concord, NH",1815.5105497350185
+"Des Moines, IA","Trenton, NJ",1587.772541839397
+"Des Moines, IA","Santa Fe, NM",1254.550230228781
+"Des Moines, IA","Albany, NY",1637.409980003853
+"Des Moines, IA","Raleigh, NC",1448.0698321685059
+"Des Moines, IA","Bismarck, ND",814.3030525578256
+"Des Moines, IA","Columbus, OH",910.5529487842582
+"Des Moines, IA","Oklahoma City, OK",760.9959348455922
+"Des Moines, IA","Salem, OR",2398.445831781839
+"Des Moines, IA","Harrisburg, PA",1410.7207676039736
+"Des Moines, IA","Providence, RI",1836.6873167618867
+"Des Moines, IA","Columbia, SC",1387.4969449395933
+"Des Moines, IA","Pierre, SD",629.5059538389232
+"Des Moines, IA","Nashville, TN",843.8923351312098
+"Des Moines, IA","Austin, TX",1314.7193615710098
+"Des Moines, IA","Salt Lake City, UT",1530.4767121600528
+"Des Moines, IA","Montpelier, VT",1732.7148636635263
+"Des Moines, IA","Richmond, VA",1454.6082474859793
+"Des Moines, IA","Olympia, WA",2392.8976826547196
+"Des Moines, IA","Charleston, WV",1080.8126123538311
+"Des Moines, IA","Madison, WI",382.686199093176
+"Des Moines, IA","Cheyenne, WY",936.730977260277
+"Topeka, KS","Frankfort, KY",942.7579018290257
+"Topeka, KS","Baton Rouge, LA",1041.1686102834278
+"Topeka, KS","Augusta, ME",2218.578187993945
+"Topeka, KS","Annapolis, MD",1654.5011303183942
+"Topeka, KS","Boston, MA",2099.961927761266
+"Topeka, KS","Lansing, MI",1019.6307040831125
+"Topeka, KS","St. Paul, MN",690.4262934484252
+"Topeka, KS","Jackson, MS",899.3098269372216
+"Topeka, KS","Jefferson City, MO",308.0844136708124
+"Topeka, KS","Helena, MT",1571.3166468780173
+"Topeka, KS","Lincoln, NE",214.79762616615133
+"Topeka, KS","Carson City, NV",2072.4741686077136
+"Topeka, KS","Concord, NH",2066.2947526909284
+"Topeka, KS","Trenton, NJ",1791.8460455571637
+"Topeka, KS","Santa Fe, NM",980.0268613658319
+"Topeka, KS","Albany, NY",1881.1266094656964
+"Topeka, KS","Raleigh, NC",1545.6175368815398
+"Topeka, KS","Bismarck, ND",957.206540137839
+"Topeka, KS","Columbus, OH",1091.5495090028546
+"Topeka, KS","Oklahoma City, OK",430.17629522847085
+"Topeka, KS","Salem, OR",2341.246134670812
+"Topeka, KS","Harrisburg, PA",1612.184132345413
+"Topeka, KS","Providence, RI",2069.077414145459
+"Topeka, KS","Columbia, SC",1421.5529356132706
+"Topeka, KS","Pierre, SD",707.0729821133284
+"Topeka, KS","Nashville, TN",846.343413912283
+"Topeka, KS","Austin, TX",996.514864772518
+"Topeka, KS","Salt Lake City, UT",1393.9813472280705
+"Topeka, KS","Montpelier, VT",1997.2193472164936
+"Topeka, KS","Richmond, VA",1598.0199593422587
+"Topeka, KS","Olympia, WA",2368.8504322181398
+"Topeka, KS","Charleston, WV",1220.0858509653656
+"Topeka, KS","Madison, WI",690.38607633971
+"Topeka, KS","Cheyenne, WY",811.2511108547236
+"Frankfort, KY","Baton Rouge, LA",1034.9362139560697
+"Frankfort, KY","Augusta, ME",1430.923023251427
+"Frankfort, KY","Annapolis, MD",733.7599561754955
+"Frankfort, KY","Boston, MA",1258.8573704414844
+"Frankfort, KY","Lansing, MI",506.19501058824704
+"Frankfort, KY","St. Paul, MN",1015.3129283687247
+"Frankfort, KY","Jackson, MS",812.7214613471573
+"Frankfort, KY","Jefferson City, MO",637.4012697904808
+"Frankfort, KY","Helena, MT",2403.2818113909916
+"Frankfort, KY","Lincoln, NE",1054.9800414795322
+"Frankfort, KY","Carson City, NV",3012.1181952870547
+"Frankfort, KY","Concord, NH",1253.4651164996267
+"Frankfort, KY","Trenton, NJ",899.956609472702
+"Frankfort, KY","Santa Fe, NM",1888.2689891716093
+"Frankfort, KY","Albany, NY",1063.0649716158155
+"Frankfort, KY","Raleigh, NC",615.1321627083348
+"Frankfort, KY","Bismarck, ND",1613.5943867830144
+"Frankfort, KY","Columbus, OH",255.3094810136232
+"Frankfort, KY","Oklahoma City, OK",1163.9268982796461
+"Frankfort, KY","Salem, OR",3230.6327878384222
+"Frankfort, KY","Harrisburg, PA",726.6716792668943
+"Frankfort, KY","Providence, RI",1213.8329487788035
+"Frankfort, KY","Columbia, SC",579.3235698948976
+"Frankfort, KY","Pierre, SD",1461.1578966977852
+"Frankfort, KY","Nashville, TN",281.33750418071287
+"Frankfort, KY","Austin, TX",1474.058187883931
+"Frankfort, KY","Salt Lake City, UT",2327.079125121772
+"Frankfort, KY","Montpelier, VT",1228.5579413478101
+"Frankfort, KY","Richmond, VA",656.8712546057689
+"Frankfort, KY","Olympia, WA",3227.642958867101
+"Frankfort, KY","Charleston, WV",283.7098697888539
+"Frankfort, KY","Madison, WI",663.8850416122857
+"Frankfort, KY","Cheyenne, WY",1734.4627715581692
+"Baton Rouge, LA","Augusta, ME",2424.5971027360415
+"Baton Rouge, LA","Annapolis, MD",1638.2548981233406
+"Baton Rouge, LA","Boston, MA",2223.8487213049893
+"Baton Rouge, LA","Lansing, MI",1486.0891434252758
+"Baton Rouge, LA","St. Paul, MN",1621.4725516467886
+"Baton Rouge, LA","Jackson, MS",225.16380623001726
+"Baton Rouge, LA","Jefferson City, MO",908.3501860582376
+"Baton Rouge, LA","Helena, MT",2538.423416899868
+"Baton Rouge, LA","Lincoln, NE",1255.9382440657328
+"Baton Rouge, LA","Carson City, NV",2771.9638136176814
+"Baton Rouge, LA","Concord, NH",2239.646875522626
+"Baton Rouge, LA","Trenton, NJ",1836.6583931457053
+"Baton Rouge, LA","Santa Fe, NM",1493.486346255174
+"Baton Rouge, LA","Albany, NY",2055.5325653394093
+"Baton Rouge, LA","Raleigh, NC",1306.173000072228
+"Baton Rouge, LA","Bismarck, ND",1998.3393986193682
+"Baton Rouge, LA","Columbus, OH",1289.9358438789186
+"Baton Rouge, LA","Oklahoma City, OK",814.1770540504644
+"Baton Rouge, LA","Salem, OR",3204.657083586579
+"Baton Rouge, LA","Harrisburg, PA",1689.8068864168551
+"Baton Rouge, LA","Providence, RI",2168.4962631009384
+"Baton Rouge, LA","Columbia, SC",1029.8794786305682
+"Baton Rouge, LA","Pierre, SD",1745.0541361286173
+"Baton Rouge, LA","Nashville, TN",753.7891171935855
+"Baton Rouge, LA","Austin, TX",633.1804466516894
+"Baton Rouge, LA","Salt Lake City, UT",2188.963381874599
+"Baton Rouge, LA","Montpelier, VT",2238.24715080059
+"Baton Rouge, LA","Richmond, VA",1487.867371570126
+"Baton Rouge, LA","Olympia, WA",3278.539682005809
+"Baton Rouge, LA","Charleston, WV",1237.413502465894
+"Baton Rouge, LA","Madison, WI",1412.1053385395653
+"Baton Rouge, LA","Cheyenne, WY",1708.2322213755954
+"Augusta, ME","Annapolis, MD",813.4837361733571
+"Augusta, ME","Boston, MA",240.2965474588685
+"Augusta, ME","Lansing, MI",1202.5381017718512
+"Augusta, ME","St. Paul, MN",1839.5208911060056
+"Augusta, ME","Jackson, MS",2215.3539023304534
+"Augusta, ME","Jefferson City, MO",1965.0498391862768
+"Augusta, ME","Helena, MT",3266.638394077237
+"Augusta, ME","Lincoln, NE",2228.5943449060715
+"Augusta, ME","Carson City, NV",4122.270166976332
+"Augusta, ME","Concord, NH",186.97424554634148
+"Augusta, ME","Trenton, NJ",611.9484235012417
+"Augusta, ME","Santa Fe, NM",3196.529463802672
+"Augusta, ME","Albany, NY",369.98346123896243
+"Augusta, ME","Raleigh, NC",1210.2672796457518
+"Augusta, ME","Bismarck, ND",2413.8779166287154
+"Augusta, ME","Columbus, OH",1190.6754819966152
+"Augusta, ME","Oklahoma City, OK",2546.981183265157
+"Augusta, ME","Salem, OR",4137.215855684376
+"Augusta, ME","Harrisburg, PA",736.1445263130581
+"Augusta, ME","Providence, RI",306.9674350033243
+"Augusta, ME","Columbia, SC",1499.0870058403673
+"Augusta, ME","Pierre, SD",2417.0256705222523
+"Augusta, ME","Nashville, TN",1698.8932008711695
+"Augusta, ME","Austin, TX",2904.9730561133083
+"Augusta, ME","Salt Lake City, UT",3434.7446694806954
+"Augusta, ME","Montpelier, VT",222.61718836051978
+"Augusta, ME","Richmond, VA",989.2532466199199
+"Augusta, ME","Olympia, WA",4058.5685020180686
+"Augusta, ME","Charleston, WV",1189.2788129697244
+"Augusta, ME","Madison, WI",1579.7989570801635
+"Augusta, ME","Cheyenne, WY",2861.9016298881875
+"Annapolis, MD","Boston, MA",592.5539063836432
+"Annapolis, MD","Lansing, MI",795.7927351959946
+"Annapolis, MD","St. Paul, MN",1520.7405783197587
+"Annapolis, MD","Jackson, MS",1440.7951381413757
+"Annapolis, MD","Jefferson City, MO",1358.4000281297097
+"Annapolis, MD","Helena, MT",2993.5004337088776
+"Annapolis, MD","Lincoln, NE",1732.2770848166863
+"Annapolis, MD","Carson City, NV",3699.4908576990933
+"Annapolis, MD","Concord, NH",627.1340010304552
+"Annapolis, MD","Trenton, NJ",202.75364108520543
+"Annapolis, MD","Santa Fe, NM",2617.4307529936636
+"Annapolis, MD","Albany, NY",468.8979477934466
+"Annapolis, MD","Raleigh, NC",403.0434410449814
+"Annapolis, MD","Bismarck, ND",2150.5208444827513
+"Annapolis, MD","Columbus, OH",568.965117504324
+"Annapolis, MD","Oklahoma City, OK",1897.48967150808
+"Annapolis, MD","Salem, OR",3851.0315776967086
+"Annapolis, MD","Harrisburg, PA",147.29250982628812
+"Annapolis, MD","Providence, RI",533.3355617130594
+"Annapolis, MD","Columbia, SC",686.2685577091845
+"Annapolis, MD","Pierre, SD",2061.80199643704
+"Annapolis, MD","Nashville, TN",958.6986836583741
+"Annapolis, MD","Austin, TX",2166.672005425483
+"Annapolis, MD","Salt Lake City, UT",3007.032950084226
+"Annapolis, MD","Montpelier, VT",671.3098594582444
+"Annapolis, MD","Richmond, VA",179.85072172757992
+"Annapolis, MD","Olympia, WA",3819.308843598324
+"Annapolis, MD","Charleston, WV",451.68325226808304
+"Annapolis, MD","Madison, WI",1173.115865645183
+"Annapolis, MD","Cheyenne, WY",2412.1457161071526
+"Boston, MA","Lansing, MI",1105.2489784339557
+"Boston, MA","St. Paul, MN",1789.8766189017795
+"Boston, MA","Jackson, MS",2020.2286203502447
+"Boston, MA","Jefferson City, MO",1829.8422305681438
+"Boston, MA","Helena, MT",3248.064980265942
+"Boston, MA","Lincoln, NE",2131.5499436587984
+"Boston, MA","Carson City, NV",4061.4887325505506
+"Boston, MA","Concord, NH",102.0618332048736
+"Boston, MA","Trenton, NJ",390.06360525239313
+"Boston, MA","Santa Fe, NM",3079.8348408297684
+"Boston, MA","Albany, NY",223.47554108561152
+"Boston, MA","Raleigh, NC",980.760006751356
+"Boston, MA","Bismarck, ND",2390.3070871918326
+"Boston, MA","Columbus, OH",1033.538168020014
+"Boston, MA","Oklahoma City, OK",2402.4025865599415
+"Boston, MA","Salem, OR",4119.466593283589
+"Boston, MA","Harrisburg, PA",538.3799238227192
+"Boston, MA","Providence, RI",66.68866961838353
+"Boston, MA","Columbia, SC",1272.6895383996336
+"Boston, MA","Pierre, SD",2365.75466263009
+"Boston, MA","Nashville, TN",1515.6613524149566
+"Boston, MA","Austin, TX",2727.8455114635535
+"Boston, MA","Salt Lake City, UT",3369.182493612196
+"Boston, MA","Montpelier, VT",244.30602033419274
+"Boston, MA","Richmond, VA",762.897236717145
+"Boston, MA","Olympia, WA",4054.773510437006
+"Boston, MA","Charleston, WV",999.8094941356836
+"Boston, MA","Madison, WI",1497.6157088704206
+"Boston, MA","Cheyenne, WY",2785.6068546893252
+"Lansing, MI","St. Paul, MN",727.1526684237318
+"Lansing, MI","Jackson, MS",1261.1697079506912
+"Lansing, MI","Jefferson City, MO",791.0032309129443
+"Lansing, MI","Helena, MT",2203.8053894220566
+"Lansing, MI","Lincoln, NE",1028.7074869241317
+"Lansing, MI","Carson City, NV",2962.049514065052
+"Lansing, MI","Concord, NH",1059.4207904180225
+"Lansing, MI","Trenton, NJ",861.9445906132341
+"Lansing, MI","Santa Fe, NM",1994.737598955236
+"Lansing, MI","Albany, NY",882.0542182613244
+"Lansing, MI","Raleigh, NC",925.3386678383928
+"Lansing, MI","Bismarck, ND",1355.8589868554322
+"Lansing, MI","Columbus, OH",334.41641647745644
+"Lansing, MI","Oklahoma City, OK",1377.070249552083
+"Lansing, MI","Salem, OR",3067.002965051031
+"Lansing, MI","Harrisburg, PA",695.3893572701671
+"Lansing, MI","Providence, RI",1084.3968506103722
+"Lansing, MI","Columbia, SC",1018.0307677429792
+"Lansing, MI","Pierre, SD",1283.838084700301
+"Lansing, MI","Nashville, TN",755.0396570558345
+"Lansing, MI","Austin, TX",1816.8722982257743
+"Lansing, MI","Salt Lake City, UT",2268.4052292788047
+"Lansing, MI","Montpelier, VT",980.2372844944214
+"Lansing, MI","Richmond, VA",835.8194822414557
+"Lansing, MI","Olympia, WA",3027.602579029427
+"Lansing, MI","Charleston, WV",546.2576446343895
+"Lansing, MI","Madison, WI",396.4453882608137
+"Lansing, MI","Cheyenne, WY",1681.4695725483052
+"St. Paul, MN","Jackson, MS",1429.3341423477011
+"St. Paul, MN","Jefferson City, MO",713.1313280020523
+"St. Paul, MN","Helena, MT",1477.34433708473
+"St. Paul, MN","Lincoln, NE",546.3120501154144
+"St. Paul, MN","Carson City, NV",2282.8837185450147
+"St. Paul, MN","Concord, NH",1727.2453098002668
+"St. Paul, MN","Trenton, NJ",1585.9962583452989
+"St. Paul, MN","Santa Fe, NM",1496.0058441817955
+"St. Paul, MN","Albany, NY",1568.5809850696232
+"St. Paul, MN","Raleigh, NC",1589.3552222756148
+"St. Paul, MN","Bismarck, ND",629.9882475418135
+"St. Paul, MN","Columbus, OH",995.5322420567076
+"St. Paul, MN","Oklahoma City, OK",1119.3319358762362
+"St. Paul, MN","Salem, OR",2343.1219502938
+"St. Paul, MN","Harrisburg, PA",1422.2864726998728
+"St. Paul, MN","Providence, RI",1779.7312826409125
+"St. Paul, MN","Columbia, SC",1594.4392781894646
+"St. Paul, MN","Pierre, SD",577.8178481097921
+"St. Paul, MN","Nashville, TN",1112.4635941544648
+"St. Paul, MN","Austin, TX",1684.9702855047174
+"St. Paul, MN","Salt Lake City, UT",1597.677322262898
+"St. Paul, MN","Montpelier, VT",1621.4546787946217
+"St. Paul, MN","Richmond, VA",1542.572441354529
+"St. Paul, MN","Olympia, WA",2300.4630365165244
+"St. Paul, MN","Charleston, WV",1200.2315848977714
+"St. Paul, MN","Madison, WI",361.4761549882947
+"St. Paul, MN","Cheyenne, WY",1042.0509493052944
+"Jackson, MS","Jefferson City, MO",720.8883155563724
+"Jackson, MS","Helena, MT",2444.147632093661
+"Jackson, MS","Lincoln, NE",1110.662584988763
+"Jackson, MS","Carson City, NV",2763.3803411606877
+"Jackson, MS","Concord, NH",2031.6091617594652
+"Jackson, MS","Trenton, NJ",1636.0546821344567
+"Jackson, MS","Santa Fe, NM",1498.5037741356532
+"Jackson, MS","Albany, NY",1845.5489732226097
+"Jackson, MS","Raleigh, NC",1131.2482234003005
+"Jackson, MS","Bismarck, ND",1847.7749579998003
+"Jackson, MS","Columbus, OH",1068.008435935782
+"Jackson, MS","Oklahoma City, OK",762.7115110321299
+"Jackson, MS","Salem, OR",3152.2076281461727
+"Jackson, MS","Harrisburg, PA",1483.3838517374897
+"Jackson, MS","Providence, RI",1966.712871385967
+"Jackson, MS","Columbia, SC",872.2736322709528
+"Jackson, MS","Pierre, SD",1605.6913297519864
+"Jackson, MS","Nashville, TN",531.3987832926705
+"Jackson, MS","Austin, TX",753.9947754725825
+"Jackson, MS","Salt Lake City, UT",2147.708185300952
+"Jackson, MS","Montpelier, VT",2024.7895804893376
+"Jackson, MS","Richmond, VA",1298.725680293701
+"Jackson, MS","Olympia, WA",3210.3254166940887
+"Jackson, MS","Charleston, WV",1026.1235307590107
+"Jackson, MS","Madison, WI",1200.013870029929
+"Jackson, MS","Cheyenne, WY",1629.6451198352888
+"Jefferson City, MO","Helena, MT",1847.0845938680773
+"Jefferson City, MO","Lincoln, NE",460.36798801972947
+"Jefferson City, MO","Carson City, NV",2380.5384169186377
+"Jefferson City, MO","Concord, NH",1804.0755325490015
+"Jefferson City, MO","Trenton, NJ",1504.9483360164454
+"Jefferson City, MO","Santa Fe, NM",1260.4248894835564
+"Jefferson City, MO","Albany, NY",1615.548304171278
+"Jefferson City, MO","Raleigh, NC",1237.5440513404085
+"Jefferson City, MO","Bismarck, ND",1153.052863806852
+"Jefferson City, MO","Columbus, OH",804.2814977408043
+"Jefferson City, MO","Oklahoma City, OK",586.7739071365853
+"Jefferson City, MO","Salem, OR",2638.14451473075
+"Jefferson City, MO","Harrisburg, PA",1325.7291326262816
+"Jefferson City, MO","Providence, RI",1794.5988087235096
+"Jefferson City, MO","Columbia, SC",1119.419778939945
+"Jefferson City, MO","Pierre, SD",936.6158329775411
+"Jefferson City, MO","Nashville, TN",546.7502940890869
+"Jefferson City, MO","Austin, TX",1057.2496792329873
+"Jefferson City, MO","Salt Lake City, UT",1701.355048028433
+"Jefferson City, MO","Montpelier, VT",1746.7648328881
+"Jefferson City, MO","Richmond, VA",1294.037568306179
+"Jefferson City, MO","Olympia, WA",2656.564168675658
+"Jefferson City, MO","Charleston, WV",917.6020845216265
+"Jefferson City, MO","Madison, WI",551.630148079199
+"Jefferson City, MO","Cheyenne, WY",1115.3318096063763
+"Helena, MT","Lincoln, NE",1386.828481600546
+"Helena, MT","Carson City, NV",1037.3396400144552
+"Helena, MT","Concord, NH",3176.7766267720795
+"Helena, MT","Trenton, NJ",3063.249134039857
+"Helena, MT","Santa Fe, NM",1314.538802664316
+"Helena, MT","Albany, NY",3030.963145289652
+"Helena, MT","Raleigh, NC",3013.9238064059778
+"Helena, MT","Bismarck, ND",857.960636991664
+"Helena, MT","Columbus, OH",2447.827446062471
+"Helena, MT","Oklahoma City, OK",1730.5297201486262
+"Helena, MT","Salem, OR",871.5913947210506
+"Helena, MT","Harrisburg, PA",2899.1937838057597
+"Helena, MT","Providence, RI",3244.0296361299347
+"Helena, MT","Columbia, SC",2951.978696904839
+"Helena, MT","Pierre, SD",943.1558071535854
+"Helena, MT","Nashville, TN",2390.2037556809555
+"Helena, MT","Austin, TX",2194.775457076461
+"Helena, MT","Salt Lake City, UT",648.2198331360808
+"Helena, MT","Montpelier, VT",3058.401797475142
+"Helena, MT","Richmond, VA",3000.0653537034045
+"Helena, MT","Olympia, WA",827.391407927855
+"Helena, MT","Charleston, WV",2637.1214568927344
+"Helena, MT","Madison, WI",1820.7304199619834
+"Helena, MT","Cheyenne, WY",837.2277226343897
+"Lincoln, NE","Carson City, NV",1967.8212530449837
+"Lincoln, NE","Concord, NH",2088.1024620657818
+"Lincoln, NE","Trenton, NJ",1851.1979587088144
+"Lincoln, NE","Santa Fe, NM",986.6751277884318
+"Lincoln, NE","Albany, NY",1909.1051825642708
+"Lincoln, NE","Raleigh, NC",1669.1076166159028
+"Lincoln, NE","Bismarck, ND",742.4135492399056
+"Lincoln, NE","Columbus, OH",1163.3126589393619
+"Lincoln, NE","Oklahoma City, OK",598.6845978812102
+"Lincoln, NE","Salem, OR",2183.9791662433104
+"Lincoln, NE","Harrisburg, PA",1672.9160134630179
+"Lincoln, NE","Providence, RI",2106.8907547569434
+"Lincoln, NE","Columbia, SC",1574.2869483381828
+"Lincoln, NE","Pierre, SD",495.2983241133206
+"Lincoln, NE","Nashville, TN",1005.5610164582514
+"Lincoln, NE","Austin, TX",1178.4089281446802
+"Lincoln, NE","Salt Lake City, UT",1277.1248032318927
+"Lincoln, NE","Montpelier, VT",2005.9779872270285
+"Lincoln, NE","Richmond, VA",1696.4177249616464
+"Lincoln, NE","Olympia, WA",2197.178982749958
+"Lincoln, NE","Charleston, WV",1318.4522508110645
+"Lincoln, NE","Madison, WI",653.7682977144647
+"Lincoln, NE","Cheyenne, WY",682.185443567651
+"Carson City, NV","Concord, NH",4004.9495843315763
+"Carson City, NV","Trenton, NJ",3810.871277182032
+"Carson City, NV","Santa Fe, NM",1279.4137998259184
+"Carson City, NV","Albany, NY",3838.2442343354383
+"Carson City, NV","Raleigh, NC",3618.0817523221785
+"Carson City, NV","Bismarck, ND",1756.1402896520428
+"Carson City, NV","Columbus, OH",3130.6730429148906
+"Carson City, NV","Oklahoma City, OK",2004.8050841769932
+"Carson City, NV","Salem, OR",696.7869002621924
+"Carson City, NV","Harrisburg, PA",3634.4906100841654
+"Carson City, NV","Providence, RI",4044.9598058217784
+"Carson City, NV","Columbia, SC",3478.9388992221348
+"Carson City, NV","Pierre, SD",1706.1617918089519
+"Carson City, NV","Nashville, TN",2906.5561837313257
+"Carson City, NV","Austin, TX",2235.35032808339
+"Carson City, NV","Salt Lake City, UT",694.0984669123454
+"Carson City, NV","Montpelier, VT",3903.467044706507
+"Carson City, NV","Richmond, VA",3662.053915675816
+"Carson City, NV","Olympia, WA",911.5603072869353
+"Carson City, NV","Charleston, WV",3283.3474549178595
+"Carson City, NV","Madison, WI",2566.1358732831827
+"Carson City, NV","Cheyenne, WY",1287.5575732358511
+"Concord, NH","Trenton, NJ",426.40637120288187
+"Concord, NH","Santa Fe, NM",3046.0964605628533
+"Concord, NH","Albany, NY",190.89709045782644
+"Concord, NH","Raleigh, NC",1025.556819656574
+"Concord, NH","Bismarck, ND",2319.8581516556033
+"Concord, NH","Columbus, OH",1018.2722517877716
+"Concord, NH","Oklahoma City, OK",2382.1921952649286
+"Concord, NH","Salem, OR",4048.36793141925
+"Concord, NH","Harrisburg, PA",550.1996866643168
+"Concord, NH","Providence, RI",154.31190707015648
+"Concord, NH","Columbia, SC",1313.1622628827317
+"Concord, NH","Pierre, SD",2304.5720664508863
+"Concord, NH","Nashville, TN",1518.1116791176044
+"Concord, NH","Austin, TX",2726.9838774057303
+"Concord, NH","Salt Lake City, UT",3314.0799841685443
+"Concord, NH","Montpelier, VT",143.6545720685986
+"Concord, NH","Richmond, VA",803.7827472979717
+"Concord, NH","Olympia, WA",3979.476461939085
+"Concord, NH","Charleston, WV",1006.0627259520487
+"Concord, NH","Madison, WI",1446.7169126874655
+"Concord, NH","Cheyenne, WY",2734.243188642888
+"Trenton, NJ","Santa Fe, NM",2764.9700899248583
+"Trenton, NJ","Albany, NY",283.06279727759977
+"Trenton, NJ","Raleigh, NC",599.3068785868941
+"Trenton, NJ","Bismarck, ND",2210.502793383211
+"Trenton, NJ","Columbus, OH",701.2143823944376
+"Trenton, NJ","Oklahoma City, OK",2060.5621714833537
+"Trenton, NJ","Salem, OR",3928.3575385920803
+"Trenton, NJ","Harrisburg, PA",179.66287435283095
+"Trenton, NJ","Providence, RI",332.0833330127758
+"Trenton, NJ","Columbia, SC",887.1468972783108
+"Trenton, NJ","Pierre, SD",2145.446469331029
+"Trenton, NJ","Nashville, TN",1142.1727685546175
+"Trenton, NJ","Austin, TX",2354.122923265852
+"Trenton, NJ","Salt Lake City, UT",3116.863838091543
+"Trenton, NJ","Montpelier, VT",483.7769692130916
+"Trenton, NJ","Richmond, VA",377.40299257596996
+"Trenton, NJ","Olympia, WA",3884.628113769264
+"Trenton, NJ","Charleston, WV",626.8218856005949
+"Trenton, NJ","Madison, WI",1255.4145929340266
+"Trenton, NJ","Cheyenne, WY",2524.3227392318604
+"Santa Fe, NM","Albany, NY",2861.1523080162056
+"Santa Fe, NM","Raleigh, NC",2456.0707153203994
+"Santa Fe, NM","Bismarck, ND",1308.7967565752951
+"Santa Fe, NM","Columbus, OH",2063.8352006548075
+"Santa Fe, NM","Oklahoma City, OK",761.7744459422183
+"Santa Fe, NM","Salem, OR",1771.9004008982006
+"Santa Fe, NM","Harrisburg, PA",2585.5477188243335
+"Santa Fe, NM","Providence, RI",3048.2537608832063
+"Santa Fe, NM","Columbia, SC",2274.2546230428884
+"Santa Fe, NM","Pierre, SD",1075.4970387535473
+"Santa Fe, NM","Nashville, TN",1722.920042513048
+"Santa Fe, NM","Austin, TX",973.4766271325914
+"Santa Fe, NM","Salt Lake City, UT",766.9041365292152
+"Santa Fe, NM","Montpelier, VT",2974.607205757251
+"Santa Fe, NM","Richmond, VA",2542.4794140247013
+"Santa Fe, NM","Olympia, WA",1889.1542204863329
+"Santa Fe, NM","Charleston, WV",2171.705246367033
+"Santa Fe, NM","Madison, WI",1637.21936432436
+"Santa Fe, NM","Cheyenne, WY",614.0867589380445
+"Albany, NY","Raleigh, NC",871.9400460103553
+"Albany, NY","Bismarck, ND",2173.003460039748
+"Albany, NY","Columbus, OH",827.43138333631
+"Albany, NY","Oklahoma City, OK",2192.3296867517556
+"Albany, NY","Salem, OR",3901.9780765562455
+"Albany, NY","Harrisburg, PA",371.12793455656305
+"Albany, NY","Providence, RI",213.37831797857154
+"Albany, NY","Columbia, SC",1151.627067979315
+"Albany, NY","Pierre, SD",2143.700319323322
+"Albany, NY","Nashville, TN",1329.2327624519314
+"Albany, NY","Austin, TX",2536.884621845807
+"Albany, NY","Salt Lake City, UT",3145.814783782985
+"Albany, NY","Montpelier, VT",202.5627544735019
+"Albany, NY","Richmond, VA",648.730586732465
+"Albany, NY","Olympia, WA",3840.776336667614
+"Albany, NY","Charleston, WV",819.4276919508633
+"Albany, NY","Madison, WI",1274.1401926060726
+"Albany, NY","Cheyenne, WY",2562.1423088721795
+"Raleigh, NC","Bismarck, ND",2207.5138785313966
+"Raleigh, NC","Columbus, OH",602.077080500713
+"Raleigh, NC","Oklahoma City, OK",1704.0368145822997
+"Raleigh, NC","Salem, OR",3845.4789367919248
+"Raleigh, NC","Harrisburg, PA",522.5690898968459
+"Raleigh, NC","Providence, RI",917.4473870381693
+"Raleigh, NC","Columbia, SC",294.7809395798813
+"Raleigh, NC","Pierre, SD",2070.815395412471
+"Raleigh, NC","Nashville, TN",733.85747461653
+"Raleigh, NC","Austin, TX",1881.2617056424708
+"Raleigh, NC","Salt Lake City, UT",2937.060845195006
+"Raleigh, NC","Montpelier, VT",1074.3148004184768
+"Raleigh, NC","Richmond, VA",223.25887259641232
+"Raleigh, NC","Olympia, WA",3839.690266941912
+"Raleigh, NC","Charleston, WV",390.1671516012864
+"Raleigh, NC","Madison, WI",1227.932335075378
+"Raleigh, NC","Cheyenne, WY",2346.4657544442503
+"Bismarck, ND","Columbus, OH",1621.2329968921742
+"Bismarck, ND","Oklahoma City, OK",1290.0557362809377
+"Bismarck, ND","Salem, OR",1729.1666958997557
+"Bismarck, ND","Harrisburg, PA",2049.822630804079
+"Bismarck, ND","Providence, RI",2386.0727207434925
+"Bismarck, ND","Columbia, SC",2185.3365068312746
+"Bismarck, ND","Pierre, SD",273.3956277802384
+"Bismarck, ND","Nashville, TN",1656.9613738575226
+"Bismarck, ND","Austin, TX",1859.6323454065573
+"Bismarck, ND","Salt Lake City, UT",1115.0240911195144
+"Bismarck, ND","Montpelier, VT",2203.2790148069316
+"Bismarck, ND","Richmond, VA",2170.8423032934397
+"Bismarck, ND","Olympia, WA",1674.2423925173593
+"Bismarck, ND","Charleston, WV",1821.2854897572024
+"Bismarck, ND","Madison, WI",986.2439963705503
+"Bismarck, ND","Cheyenne, WY",708.0008800620997
+"Columbus, OH","Oklahoma City, OK",1369.23700229438
+"Columbus, OH","Salem, OR",3296.778921206021
+"Columbus, OH","Harrisburg, PA",521.716892295524
+"Columbus, OH","Providence, RI",994.3224851422588
+"Columbus, OH","Columbia, SC",685.2978684169909
+"Columbus, OH","Pierre, SD",1508.2937183589827
+"Columbus, OH","Nashville, TN",536.6099496480854
+"Columbus, OH","Austin, TX",1718.334649875685
+"Columbus, OH","Salt Lake City, UT",2438.5183734602924
+"Columbus, OH","Montpelier, VT",982.6935781990586
+"Columbus, OH","Richmond, VA",552.2428692097407
+"Columbus, OH","Olympia, WA",3275.19968028235
+"Columbus, OH","Charleston, WV",214.42738295511802
+"Columbus, OH","Madison, WI",635.2278812150316
+"Columbus, OH","Cheyenne, WY",1843.4953160326747
+"Oklahoma City, OK","Salem, OR",2395.88011260707
+"Oklahoma City, OK","Harrisburg, PA",1883.880596151061
+"Oklahoma City, OK","Providence, RI",2363.4642988199143
+"Oklahoma City, OK","Columbia, SC",1513.118849932659
+"Oklahoma City, OK","Pierre, SD",1018.6267880739496
+"Oklahoma City, OK","Nashville, TN",970.5275076673947
+"Oklahoma City, OK","Austin, TX",580.5801635074305
+"Oklahoma City, OK","Salt Lake City, UT",1386.200867661832
+"Oklahoma City, OK","Montpelier, VT",2330.252411367881
+"Oklahoma City, OK","Richmond, VA",1806.0240578741807
+"Oklahoma City, OK","Olympia, WA",2464.8196028863413
+"Oklahoma City, OK","Charleston, WV",1446.1590577373092
+"Oklahoma City, OK","Madison, WI",1095.7803184761099
+"Oklahoma City, OK","Cheyenne, WY",896.0095656480726
+"Salem, OR","Harrisburg, PA",3761.78611261922
+"Salem, OR","Providence, RI",4114.919899060914
+"Salem, OR","Columbia, SC",3757.119899640197
+"Salem, OR","Pierre, SD",1789.5463327503073
+"Salem, OR","Nashville, TN",3184.553200740689
+"Salem, OR","Austin, TX",2743.2819938720545
+"Salem, OR","Salt Lake City, UT",1019.3224182741585
+"Salem, OR","Montpelier, VT",3929.72726624341
+"Salem, OR","Richmond, VA",3847.616282642212
+"Salem, OR","Olympia, WA",233.1845475440866
+"Salem, OR","Charleston, WV",3477.942599664069
+"Salem, OR","Madison, WI",2678.5970050457604
+"Salem, OR","Cheyenne, WY",1535.7532138553343
+"Harrisburg, PA","Providence, RI",489.01296654656574
+"Harrisburg, PA","Columbia, SC",788.3325566203181
+"Harrisburg, PA","Pierre, SD",1975.7803772683167
+"Harrisburg, PA","Nashville, TN",977.693478789536
+"Harrisburg, PA","Austin, TX",2190.245214818798
+"Harrisburg, PA","Salt Lake City, UT",2940.6450496187313
+"Harrisburg, PA","Montpelier, VT",567.357337509088
+"Harrisburg, PA","Richmond, VA",307.2988731042119
+"Harrisburg, PA","Olympia, WA",3722.68693455776
+"Harrisburg, PA","Charleston, WV",461.50881884615933
+"Harrisburg, PA","Madison, WI",1084.8492055197923
+"Harrisburg, PA","Cheyenne, WY",2347.44710071092
+"Providence, RI","Columbia, SC",1210.151527110255
+"Providence, RI","Pierre, SD",2353.760930856909
+"Providence, RI","Nashville, TN",1466.4589912337735
+"Providence, RI","Austin, TX",2679.103164213162
+"Providence, RI","Salt Lake City, UT",3351.8500674340144
+"Providence, RI","Montpelier, VT",286.81218444271656
+"Providence, RI","Richmond, VA",701.0134563191158
+"Providence, RI","Olympia, WA",4054.1533344979566
+"Providence, RI","Charleston, WV",950.0605676435556
+"Providence, RI","Madison, WI",1479.1176802504147
+"Providence, RI","Cheyenne, WY",2765.8661780491984
+"Columbia, SC","Pierre, SD",2016.7988291215884
+"Columbia, SC","Nashville, TN",575.4046394664296
+"Columbia, SC","Austin, TX",1626.247162758112
+"Columbia, SC","Salt Lake City, UT",2811.9726516234814
+"Columbia, SC","Montpelier, VT",1352.4725757697463
+"Columbia, SC","Richmond, VA",510.16192673947097
+"Columbia, SC","Olympia, WA",3769.8169444124037
+"Columbia, SC","Charleston, WV",486.56181640442264
+"Columbia, SC","Madison, WI",1242.4309036027325
+"Columbia, SC","Cheyenne, WY",2232.7487117417786
+"Pierre, SD","Nashville, TN",1465.7235931166729
+"Pierre, SD","Austin, TX",1586.4143863413892
+"Pierre, SD","Salt Lake City, UT",1025.5134894458558
+"Pierre, SD","Montpelier, VT",2199.2450213153697
+"Pierre, SD","Richmond, VA",2060.0617317509477
+"Pierre, SD","Olympia, WA",1769.7052182069417
+"Pierre, SD","Charleston, WV",1694.5581054283725
+"Pierre, SD","Madison, WI",890.959696206212
+"Pierre, SD","Cheyenne, WY",511.72508263511247
+"Nashville, TN","Austin, TX",1212.6598434207458
+"Nashville, TN","Salt Lake City, UT",2236.8995789182695
+"Nashville, TN","Montpelier, VT",1501.732293902241
+"Nashville, TN","Richmond, VA",845.1645721368607
+"Nashville, TN","Olympia, WA",3202.698725341077
+"Nashville, TN","Charleston, WV",516.4227440083394
+"Nashville, TN","Madison, WI",800.3735001084245
+"Nashville, TN","Cheyenne, WY",1657.594377724397
+"Austin, TX","Salt Lake City, UT",1729.163359911134
+"Austin, TX","Montpelier, VT",2700.6935386278005
+"Austin, TX","Richmond, VA",2037.131800460799
+"Austin, TX","Olympia, WA",2850.5155673233357
+"Austin, TX","Charleston, WV",1729.08239989662
+"Austin, TX","Madison, WI",1606.5888222492247
+"Austin, TX","Cheyenne, WY",1367.70768649297
+"Salt Lake City, UT","Montpelier, VT",3214.9315264883558
+"Salt Lake City, UT","Richmond, VA",2973.318930136044
+"Salt Lake City, UT","Olympia, WA",1123.0438896548633
+"Salt Lake City, UT","Charleston, WV",2595.0125587263587
+"Salt Lake City, UT","Madison, WI",1872.7727072650994
+"Salt Lake City, UT","Cheyenne, WY",595.1566253207444
+"Montpelier, VT","Richmond, VA",851.1600539401852
+"Montpelier, VT","Olympia, WA",3856.1957405127728
+"Montpelier, VT","Charleston, WV",1001.0355705407329
+"Montpelier, VT","Madison, WI",1357.3981101310353
+"Montpelier, VT","Cheyenne, WY",2640.4964648953132
+"Richmond, VA","Olympia, WA",3827.4409152270737
+"Richmond, VA","Charleston, WV",378.79177618299764
+"Richmond, VA","Madison, WI",1184.8052499049572
+"Richmond, VA","Cheyenne, WY",2378.590212535252
+"Olympia, WA","Charleston, WV",3464.1655104491306
+"Olympia, WA","Madison, WI",2647.1962436264585
+"Olympia, WA","Cheyenne, WY",1581.112168179865
+"Charleston, WV","Madison, WI",838.7637570944354
+"Charleston, WV","Cheyenne, WY",2000.5057477007858
+"Madison, WI","Cheyenne, WY",1288.120786908738
